@@ -7,4 +7,5 @@ This repository contains code and information related to a hack for the game Kru
 
 # Installation
 Download [Tampermonkey](https://www.tampermonkey.net/)
+
 Click [patched_aimbot.user.js](https://github.com/7i7u5/Krunker-Central-Cracked/blob/main/patched_aimbot.user.js) and press install
